@@ -1,3 +1,3 @@
 README file of HEXAIGON
 
-A more extensive description will be added as soon as possible.
+HexAIgon is a sandbox-style game I am developing. It focuses on 2 primary aspects: The game's world is made of hexagons, and every sentient creature living in this world has a learning AI.

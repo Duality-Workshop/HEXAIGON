@@ -1,4 +1,6 @@
-I realized it would probably be better to actually keep those notes digitally, so I am going to dump here everything I wrote down so far.
+I realized it would probably be better to actually keep those notes digitally, so I am
+
+going to dump here everything I wrote down so far.
 
 "Everything is hexagon." -- Boss
 
@@ -6,34 +8,34 @@ I realized it would probably be better to actually keep those notes digitally, s
 [1 Player mode] (1P)
 
 2 different gameplay modes: "strat" and "hero"
-	-strat: STR-like (can only be paused in 1P)
-	-hero: lvl system? if yes, xp curve is slow ( ___/ instead of /----- ). lvl cap?
+-strat: STR-like (can only be paused in 1P)
+-hero: lvl system? if yes, xp curve is slow ( ___/ instead of /----- ). lvl cap?
 
 1 bloc ~= 66 cm (height) ?
 width is 1 m
-	smaller blocs?
-		ratio? 2:1 or 3:1? (2:1 seems more appropriate)
-		placing? (maybe overlap)
+smaller blocs?
+ratio? 2:1 or 3:1? (2:1 seems more appropriate)
+placing? (maybe overlap)
 
 Player model:
-	blocky or not?
-	customizable?
-		how much? (texture? model?)
+blocky or not?
+customizable?
+how much? (texture? model?)
 
 NPCs: AI! (basically the 2nd most important of the game)
-	-general AI stored on server (animals too)
-	-evolves according to players' games
-		-> client AI updated weekly? monthly?
+-general AI stored on server (animals too)
+-evolves according to players' games
+-> client AI updated weekly? monthly?
 
 no scripted AI; all self-learning
-	(should I use this for my thesis?)
+(should I use this for my thesis?)
 
 Grid:
 full hexagonal (duh)
 possibility to have hollow blocks (walls = 10 cm wide?)
 
 Bloc editor
-	free to DL?
+free to DL?
 
 mod editor?
 
@@ -41,24 +43,24 @@ mod editor?
 Multiplayer
 
 only 1 strat player
-	except if there are more than 1 factions
+except if there are more than 1 factions
 
-	(factions are kinda like teams in AoE)
+(factions are kinda like teams in AoE)
 
 hero players can be neutrals (not faction-bound)
-	-mercenaries?
+-mercenaries?
 
 weapon/armor crafting?
 
 more on Strat:
-	no direct control over NPCs?
-		special mod for that?
+no direct control over NPCs?
+special mod for that?
 
 remote camera over NPCs and allied heroes
 
 ages? probably not
-	definitely gonna make some kind of technology tree
-		probably not a tree per se though
+definitely gonna make some kind of technology tree
+probably not a tree per se though
 
 
 

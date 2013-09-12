@@ -1,4 +1,4 @@
 HEXAIGON
 ========
 
-A sandbox-slash-adventure game that primarily focuses on the AI of the environment.
+HexAIgon is a sandbox-style game I am developing. It focuses on 2 primary aspects: The game's world is made of hexagonal prisms, and every sentient creature living in this world has a learning AI.
